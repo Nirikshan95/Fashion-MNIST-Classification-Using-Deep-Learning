@@ -125,7 +125,8 @@ Fashion-MNIST-Classification-Using-Deep-Learning/
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` file for details.
+### Dataset
+The Fashion MNIST dataset used in this project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Contact
 
